@@ -36,6 +36,9 @@
   - `PyInstaller` 生成可执行程序
   - `Inno Setup` 生成安装包
 
+其界面如下：
+<img width="100%" alt="structure" src="assets/demo.png" />
+
 ## 3. 如何上手使用
 
 ### 3.1 环境准备
